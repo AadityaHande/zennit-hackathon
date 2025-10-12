@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar1",
+      "description": "Avatar of Sarah J.",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "avatar2",
+      "description": "Avatar of Mark C.",
+      "imageUrl": "https://picsum.photos/seed/avatar2/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "avatar3",
+      "description": "Avatar of Emily R.",
+      "imageUrl": "https://picsum.photos/seed/avatar3/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "avatar4",
+      "description": "Avatar of David L.",
+      "imageUrl": "https://picsum.photos/seed/avatar4/100/100",
+      "imageHint": "person avatar"
+    }
+  ]
+}
